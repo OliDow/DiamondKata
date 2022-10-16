@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataDiamond", "KataDiamond\KataDiamond.csproj", "{FEE61E49-9DB4-4519-AC09-98D26DE8AAE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataDiamond.UnitTests", "KataDiamond.UnitTests\KataDiamond.UnitTests.csproj", "{49FC5EC7-D5EF-4E56-A138-8C3FE22764DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE61E49-9DB4-4519-AC09-98D26DE8AAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE61E49-9DB4-4519-AC09-98D26DE8AAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE61E49-9DB4-4519-AC09-98D26DE8AAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE61E49-9DB4-4519-AC09-98D26DE8AAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FC5EC7-D5EF-4E56-A138-8C3FE22764DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FC5EC7-D5EF-4E56-A138-8C3FE22764DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FC5EC7-D5EF-4E56-A138-8C3FE22764DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FC5EC7-D5EF-4E56-A138-8C3FE22764DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
